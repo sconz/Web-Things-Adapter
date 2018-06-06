@@ -1,9 +1,9 @@
 {
   "name": "Web-Things-Adapter",
   "version": "0.0.1",
-  "description": "",
+  "description": "Web Things Adapter converting http requests to Web Thing API requests using NodeJS and Shell ",
   "main": "index.js",
-  "repository": "",
-  "author": "",
+  "repository": "https://github.com/sconz/Web-Things-Adapter",
+  "author": "Chang-oh Son",
   "license": "BSD"
 }
